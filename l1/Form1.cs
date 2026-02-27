@@ -32,7 +32,8 @@ namespace l1
             {
                 sum += mas[i];
             }
-            label1.Text = "Сумма: " + sum.ToString();
+            label1.Text = "Сумма: " + sum;
         }
     }
 }
+
